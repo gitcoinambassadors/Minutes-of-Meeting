@@ -82,3 +82,7 @@ Vivek continued by discussing the explicit responsibilties involved as an Ambass
 3. Discussion about trust and if someone can lose Kudos. - [26:48]
 4. Discussion regarding interconnectability of communication systems. - [37:26]
 5. Discussion regarding escrow process in the case of a dispute. - [39:29]
+
+```
+Last edited 2018-11-21 at 6:21EST by Anish. Cheers!
+```
