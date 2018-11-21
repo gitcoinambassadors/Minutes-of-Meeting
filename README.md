@@ -8,10 +8,12 @@
   <tr>
     <th>Ryan Shea</th>
     <th>Vivek Singh</th>
+    <th>Mark Beacom</th>
   </tr>
   <tr>
     <td>@ryan-shea</td>
     <td>@vs77bb</td>
+    <td>@mbeacom</td>
   </tr>
 </table>
 
