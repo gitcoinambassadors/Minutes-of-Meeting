@@ -51,7 +51,7 @@
   <tr>
     <td>November 20, 2018</td>
     <td><a href="https://consensys.zoom.us/recording/share/snr_PFQaLP0esWy3I6FI2tZbVLz4iBmxCX2Dqszkl2iwIumekTziMw">Link</a></td>
-    <td></td>
+    <td><a href="https://github.com/gitcoinambassadors/Minutes-of-Meeting/blob/master/Minutes/Novemeber%2020%2C%202018.md">Link</a></td>
   </tr>
 </table>
 <h3>Milestones:</h3>
