@@ -54,20 +54,18 @@
     <td>:x:</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td>
-    <td>:x:</td>
+    <td>:heavy_check_mark:</td>
   </tr>
 </table>
 
 # Discussion: 
 
+### Topics of conversation:
+1. 
 
 ### Other quick discussions: 
-1. Discussion regarding issue explorer data being pushed to external sources. - [22:55]
-2. Discussion regarding renewed Gitcoin landing page and how other projects were going to be split/affected. - [25:06]
-3. Discussion about trust and if someone can lose Kudos. - [26:48]
-4. Discussion regarding interconnectability of communication systems. - [37:26]
-5. Discussion regarding escrow process in the case of a dispute. - [39:29]
+
 
 ```
-Last edited 2018-11-21 at 11:24EST by Anish. Cheers!
+Last edited 2018-12-17 at 11:36EST by Anish. Cheers!
 ```
