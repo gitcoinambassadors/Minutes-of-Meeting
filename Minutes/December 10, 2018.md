@@ -58,14 +58,8 @@
   </tr>
 </table>
 
-# Discussion: 
-
-### Topics of conversation:
-1. 
-
-### Other quick discussions: 
-
 
 ```
-Last edited 2018-12-17 at 11:36EST by Anish. Cheers!
+Last edited 2018-01-17 at 9:27EST by Anish. Cheers!
+Removed missing content.
 ```
