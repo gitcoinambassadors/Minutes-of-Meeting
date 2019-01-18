@@ -8,12 +8,10 @@
   <tr>
     <th>Ryan Shea</th>
     <th>Vivek Singh</th>
-    <th>Mark Beacom</th>
   </tr>
   <tr>
     <td>@ryan-shea</td>
     <td>@vs77bb</td>
-    <td>@mbeacom</td>
   </tr>
 </table>
 
@@ -47,6 +45,16 @@
     <th>Date</th>
     <th>Recorded Link</th>
     <th>Summary Link</th>
+  </tr>
+  <tr>
+    <td>January 17, 2019</td>
+    <td></td>
+    <td><a href="https://github.com/gitcoinambassadors/Minutes-of-Meeting/blob/master/Minutes/January%2017%2C%202019.md">Link</a></td>
+  </tr>
+  <tr>
+    <td>December 10, 2018</td>
+    <td></td>
+    <td><a href="https://github.com/gitcoinambassadors/Minutes-of-Meeting/blob/master/Minutes/December%2010%2C%202018.md">Link</a></td>
   </tr>
   <tr>
     <td>November 20, 2018</td>
